@@ -1,0 +1,8 @@
+Simple STM32F4 Discovery based USB audio sound card firmware test using STM32F4Cube.
+
+Usage:
+$ make cube
+$ make
+$ make program
+
+Project use https://github.com/stv0g/stm32cube-gcc as template
